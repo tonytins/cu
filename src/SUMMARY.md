@@ -8,5 +8,6 @@
 - [Characters](./characters/README.md)
   - [Anthony Foxclaw](./characters/anthony.md)
   - [Kit Welsh](./characters/kit.md)
+  - [Max Hillward](./characters/max.md)
   - [Zach Casey](./characters/zach.md)
   - [Tom Wilcox](./characters/tom.md)
