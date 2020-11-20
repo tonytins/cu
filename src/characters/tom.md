@@ -1,3 +1,5 @@
 # Tom Wilcox
 
 Tom Wilcox is a border collie that likes model railroading, record collecting and karaoke. He is a [andromorph](../universe/andromorph.md).
+
+## Artwork
