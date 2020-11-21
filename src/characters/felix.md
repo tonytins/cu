@@ -1,4 +1,4 @@
-# Felix
+# Felix Cornell
 
 Felix is a Hudson [android](../universe/androids.md#hudson) owned by [Savelli Cornell](./savelli.md). His natural curiosity means his interests are often derive on what Savelli himself likes.
 
