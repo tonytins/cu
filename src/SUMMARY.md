@@ -9,6 +9,7 @@
   - [Anthony Foxclaw](./characters/anthony.md)
   - [Kit Welsh](./characters/kit.md)
   - [Felix Cornell](./characters/felix.md)
+  - [Oliver Bradford](./characters/oliver.md)
   - [Savelli Cornell](./characters/savelli.md)
   - [Max Hillward](./characters/max.md)
   - [Zach Casey](./characters/zach.md)
