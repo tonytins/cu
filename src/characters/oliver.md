@@ -1,3 +1,11 @@
 # Oliver Bradford
 
-Oliver is a tabby cat that is interested in car modding, soccer, and coin collecting.
+Oliver is a blue tabby cat that is interested in cars, soccer, and coin collecting.
+
+## Info
+
+**Role:**
+
+**Stats:**
+
+**Skills:**
