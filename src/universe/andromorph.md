@@ -5,3 +5,5 @@ In Casey Universe, an andromorph is a fancy term for males born with female geni
 ## Characters
 
 - [Anthony Foxclaw](../characters/anthony.md)
+- [Kit Welsh](../characters/kit.md)
+- [Tom Wilcox](../characters/tom.md)
