@@ -5,4 +5,4 @@ Foxclaw family was formed when Zack Casey married Jenny Foxclaw. The had two ide
 ## Members
 
 - [Anthony](./anthony.md)
-- [Zach II](./zack_II.md)
+- [Zach II](./zackII.md)

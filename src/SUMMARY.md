@@ -8,7 +8,7 @@
 - [Characters](./characters/README.md)
   - [Foxclaw family](./characters/families/foxclaw/README.md)
     - [Anthony](./characters/families/foxclaw/anthony.md)
-    - [Zach II](./characters/families/foxclaw/zach_II.md)
+    - [Zach II](./characters/families/foxclaw/zackII.md)
   - [Kit Welsh](./characters/kit.md)
   - [Oliver Bradford](./characters/oliver.md)
   - [Max Hillward](./characters/max.md)
