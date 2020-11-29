@@ -2,7 +2,7 @@
 
 - [Introduction](./intro.md)
 - [Universe](./universe/README.md)
-  - [Great War](./universe/greatwar.md)
+  - [Languages](./universe/languages.md)
   - [Tailmaw](./universe/tailmaw.md)
   - [Andromorph](./universe/andromorph.md)
 - [Characters](./characters/README.md)
