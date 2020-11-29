@@ -3,6 +3,7 @@
 - [Introduction](./intro.md)
 - [Universe](./universe/README.md)
   - [Languages](./universe/languages.md)
+  - [Locations](./universe/locations.md)
   - [Tailmaw](./universe/tailmaw.md)
   - [Andromorph](./universe/andromorph.md)
 - [Characters](./characters/README.md)
