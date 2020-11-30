@@ -1,11 +1,13 @@
 # Locations
 
-## Catsinburg
-
-From it's formation until the industrial era, Catsinburg was the capital city of Bradford empire.
-
 ## Furtropolis
  
-Furtropolis became the capital city of Bradford empire from the industrial era and onward.
+Furtropolis is the current capital city of the Bradford Kingdom. The city's center contains buildings for the federal and local government.
+
+![Furtropolis map](../img/furtropolis.png)
+
+## Catsinburg
+
+Catsinburg was formed during the Bradford Kingdom's formation. It use to be the capital city until Furtropolis took it's place centuries later sometime after the kingdom reformed into a parliamentary democracy.
 
 
