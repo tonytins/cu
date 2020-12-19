@@ -8,6 +8,6 @@ Due to his programming, Felix naturally seeks to be friendly and generous toward
 
 **Role:**
 
-**Stats:**
+**Traits:**
 
-**Skills:**
+**Faction:**

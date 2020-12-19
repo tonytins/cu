@@ -10,6 +10,6 @@ Oliver also wears a silver necklace with a symbol of the [Catsinburg](./../unive
 
 **Role:** Prince
 
-**Stats:**
+**Traits:**
 
-**Skills:**
+**Faction:**
