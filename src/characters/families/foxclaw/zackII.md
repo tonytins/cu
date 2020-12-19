@@ -4,8 +4,6 @@ Zack Foxclaw is a blue fennec with a [tailmaw](./../../../universe/tailmaw.md). 
 
 ## Info
 
-**Role:**
-
 **Traits:**
 
 **Faction:**

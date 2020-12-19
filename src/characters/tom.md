@@ -4,8 +4,6 @@ Tom Wilcox is a border collie that is interested in model railroading, record co
 
 ## Info
 
-**Role:**
-
 **Traits:**
 
 **Faction:**

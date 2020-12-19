@@ -6,8 +6,6 @@ Savelli often chooses to exploit loopholes established within system in order to
 
 ## Info
 
-**Role:**
-
 **Traits:**
 
 **Faction:**

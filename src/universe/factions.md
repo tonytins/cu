@@ -2,7 +2,9 @@
 
 Factions are small organized dissenting group within a larger one.
 
-Some factions are inherited, such as working for a company. For example, a character working for Concord Surveillance inherent the Concord Security role. However, this does not mean they share the same political or ideological views as Concord.
+Some factions are inherited, such as working for a company. For example, a character working for Concord Surveillance inherent the Concord Security faction. However, this does not mean they share the same political or ideological views as Concord.
+
+It's possible for a character to side with another faction while still keeping the one they've inherent from their job. Members in low tier ranks of one faction are more likely to side in opposing.
 
 ## Concord Security
 

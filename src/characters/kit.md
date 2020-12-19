@@ -6,8 +6,6 @@ Kit believes in truth and justice along with a code of conduct. This often gets 
 
 ## Info
 
-**Role:**
-
 **Traits:**
 
 **Faction:**

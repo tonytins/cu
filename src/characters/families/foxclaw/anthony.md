@@ -6,8 +6,6 @@ Anthony believes in a healthy balance of freedom and doing good.
 
 ## Info
 
-**Role:**
-
 **Traits:**
 
 **Faction:**

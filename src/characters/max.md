@@ -4,8 +4,6 @@ Max is a fennec with cybernetic eye and arm implants. He is interested in progra
 
 ## Info
 
-**Role:**
-
 **Traits:**
 
 **Faction:**
