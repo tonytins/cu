@@ -1,11 +1,13 @@
 # Synths
 
-<img src="img/../../img/Synthintro.png" style="float:right;width:20em" />
+<div style="float:right;">
+<img src="../img/Synthintro.png" style="width:20em" />
+<p><small>Examples of Synths by Vader-San</small></p>
+</div>
 
-The [Synths](https://synthspecies.com/) are a fictional synthetic android species created by [Vader-San](https://www.furaffinity.net/user/vader-san). They are open, free to use, and can be adapted into any canon without restrictions.
+[Synths](https://synthspecies.com/) are a fictional synthetic android species created by [Vader-San](https://www.furaffinity.net/user/vader-san). They are open, free to use, and can be adapted into any canon without restrictions.
 
-While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. For the purpose of this book, however, Synths based on that lore will be known as "mainline Synths." The CU versions follow the mainline, for the most part, but due differ in their respective ways.
-
+While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. Though Synths based on that lore will go under the "mainline" title for the purpose of this book. CU versions follow the mainline when it comes to their [autonomy](https://synthspecies.com/wiki/Anatomy) and differ only in culture.
 ## Culture
 
 ### Language
