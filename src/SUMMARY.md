@@ -6,6 +6,7 @@
   - [Companies](./universe/companies.md)
   - [Locations](./universe/locations/README.md)
   - [Factions](./universe/factions.md)
+  - [Synth](./universe/synth.md)
   - [Tailmaw](./universe/tailmaw.md)
   - [Andromorph](./universe/andromorph.md)
 - [Characters](./characters/README.md)

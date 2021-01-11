@@ -6,4 +6,4 @@ Max is a fennec with cybernetic eye and arm implants. He is interested in progra
 
 **Traits:**
 
-**Faction:**
+**Faction:** Bark Pack

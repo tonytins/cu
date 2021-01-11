@@ -6,6 +6,6 @@ Kit believes in truth and justice along with a code of conduct. This often gets 
 
 ## Info
 
-**Traits:**
+**Traits:** Business Savvy, Collector
 
-**Faction:**
+**Faction:** Bark Pack
