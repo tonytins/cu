@@ -7,7 +7,7 @@
 
 [Synths](https://synthspecies.com/) are a fictional synthetic android species created by [Vader-San](https://www.furaffinity.net/user/vader-san). They are open, free to use, and can be adapted into any canon without restrictions.
 
-While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. Though for the purposes of this book, Synths based on that lore will go under the "mainline" title. CU versions generally follow the mainline when it comes to their [autonomy](https://synthspecies.com/wiki/Anatomy) but differ in culture.
+While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. Though for the purposes of this book, Synths based on that lore will go under the "mainline" title. Casey Universe versions generally follow the mainline when it comes to their [anatomy](https://synthspecies.com/wiki/Anatomy), with the exception of software, and mainly differ in culture.
 
 ## Culture
 ### Language
