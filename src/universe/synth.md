@@ -17,6 +17,6 @@ Synths adopt to the written and spoken language organics use within a region in 
 ## Anatomy
 ### Formats
 
-To Synths, a Format means "what I am here to do." A Format dictates their purpose, offers additional abilities, traits and hardware benefits. The term rarely refers to the different types of files within their operating system amongst other Synths. Formats may be downloaded or installed from a physical medium. They do not affect a Synth's personality, may be removed at anytime, and are located on a separate partition and/or drive.
+To Synths, a Format means "what I am here to do." A Format may dictate their purpose, offer new abilities, traits and/or hardware benefits. The term rarely refers to the different types of files within their operating system, though they are aware of similarities. Formats may be downloaded or installed from a physical medium. They do not affect a Synth's personality, may be removed at anytime, and are located on a separate partition and/or drive.
 
 Formats often serve as a teaching and on-the-job tool, as oppose to being an integral part of Synth's overall identity, because continues usage creates machine learning models while still retaining their base. Though, it's not uncommon for Synths to specialize in a particular format, similar to a career.
