@@ -2,13 +2,13 @@
 
 - [Introduction](./intro.md)
 - [Universe](./universe/README.md)
-  - [Languages](./universe/languages.md)
-  - [Companies](./universe/companies.md)
+<!--   - [Languages](./universe/languages.md)
+  - [Companies](./universe/companies.md) -->
   - [Locations](./universe/locations.md)
   - [Synth](./universe/synth.md)
   - [Tailmaw](./universe/tailmaw.md)
   - [Andromorph](./universe/andromorph.md)
-- [Characters](./characters/README.md)
+<!-- - [Characters](./characters/README.md)
   - [Bradford family](./characters/families/bradford/README.md)
     - [Oliver](./characters/families/bradford/oliver.md)
   - [Foxclaw family](./characters/families/foxclaw/README.md)
@@ -17,4 +17,4 @@
     - [Zack II](./characters/families/foxclaw/zackII.md)
   - [Kit Welsh](./characters/kit.md)
   - [Max Hillward](./characters/max.md)
-  - [Tom Wilcox](./characters/tom.md)
+  - [Tom Wilcox](./characters/tom.md) -->
