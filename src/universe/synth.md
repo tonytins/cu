@@ -14,10 +14,6 @@ While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves on
 
 Synths adopt to the written and spoken language organics use within a region in order to communicate with them and amongst themselves in the area. However, Synths have developed their own writing language based on barcodes. Known as the Synthetic Language, the data within the barcodes is OS-independent and can be read by Synths or any application the supports the format. The Synthetic Language has allowed them to gain independence from organics and move to areas populated by a Synth majority, such as Zero One.
 
-### Work
-
-Synths commonly take on jobs that organics would not be fit for. Their modular nature makes it easier for them to adapt to extreme or hostile environments. Though, they've also taken on jobs in less exciting but still crucial roles such as long distance transportation for both passengers and freight, where AI would still be beneficial but the cost of a centralized system, similar to those in rapid transit, would be impractical. Synths working in long distance transport are more likely to be multicultural.
-
 ## Anatomy
 ### Formats
 
