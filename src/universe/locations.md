@@ -2,7 +2,7 @@
 
 ## Furtropolis
  
-Furtropolis is the current capital city of the Bradford Kingdom. The city centre contains historical and political buildings, though the castle is located
+Furtropolis is the current capital city of the Bradford Kingdom. The city center contains historical and political buildings, though the castle is located elsewhere.
 
 ![Furtropolis map](../img/furtropolis.png)
 
@@ -12,4 +12,4 @@ Catsinburg was formed during the Bradford Kingdom's formation. It use to be the 
 
 ## Zero One
 
-The a capital city of the [Synths](./synth.md).
+Sometime after the invention of the Synthetic Language, [Synths](./synth.md) began to create their own colony seperate from organics, known as Zero One, that catered to Synth-specific wants and needs. The Synthetic Language is used for signs, books and offline storage.
