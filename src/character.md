@@ -18,7 +18,7 @@ Zack is a blue fennec with a [tailmaw](./universe/tailmaw.md). He is interested 
 
 ## Felix
 
-Felix is a male [synth](./universe/synths.md) built for long distance travel. With him is his has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
+Felix is a [synth](./universe/synths.md) that likes CD collecting, visiting clubs, and going to the gym. With him is his has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
 
 ## Tom Wilcox
 
@@ -26,7 +26,7 @@ Tom Wilcox is a [andromorph](./universe/andromorph.md) border collie that is int
 
 ## Kit Welsh
 
-Kit Welsh is a [andromorph](./universe/andromorph.md) raccoon. He is interested in astronomy, amateur radio and video editing.
+Kit Welsh is a [andromorph](./universe/andromorph.md) raccoon. He is interested in astronomy, amateur radio and video editing. He works for varies railroads, handling long distant freight and passenger routes.
 
 ## Aidan Cheddar
 

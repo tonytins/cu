@@ -25,7 +25,7 @@ Formats often serve as a teaching and on-the-job tool, as oppose to being an int
 
 ## Grey Goo
 
-Grey Goo is the "blood" of all Synths that carries nanites throughout their body, and helps cool their systems down without needing fans. Excess is released from their attached bits or when connect to a Synth toilet. The substance is made non-toxic materials and is harmless to use organics.
+Grey Goo is the "blood" of all Synths. It carries nanites throughout their body, and helps cool their systems down without needing fans. The substance is made out of non-toxic materials and is harmless to use organics on it's own. However, Grey Goo is mixed in with Synth's waste, pellets of tungsten, lead or uranium, and is harmful.
 
 ### "Grey Goo Event"
 
