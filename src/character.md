@@ -10,23 +10,23 @@ Oliver wears a silver necklace with a symbol of the [Catsinburg](./universe/loca
 
 ### Anthony
 
-Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./universe/andromorph.md) with a preference to more feminine bottoms. He has a [tailmaw](./universe/tailmaw.md) named Fitz as well as a cybernetic arm that's normally covered by synthetic skin and fur.
+Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms. He has a [tailmaw](./genetics/tailmaw.md) named Fitz as well as a cybernetic arm that's normally covered by synthetic skin and fur.
 
 ### Zack
 
-Zack is a blue fennec with a [tailmaw](./universe/tailmaw.md). He is interested in skateboarding, podcasting and comics. Zack has a cybernetic eyes. His name is carried over from his father, Zack, and their father, ect...
+Zack is a blue fennec with a [tailmaw](./genetics/tailmaw.md). He is interested in skateboarding, podcasting and comics. Zack has a cybernetic eyes. His name is carried over from his father, Zack, and their father, ect...
 
 ## Felix
 
-Felix is a [synth](./universe/synths.md) that likes CD collecting, visiting clubs, and going to the gym. With him is his has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
+Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs, and going to the gym. With him is his has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
 
 ## Tom Wilcox
 
-Tom Wilcox is a [andromorph](./universe/andromorph.md) border collie that is interested in model railroading, record collecting and karaoke.
+Tom Wilcox is a andromorph border collie that is interested in model railroading, record collecting and karaoke.
 
 ## Kit Welsh
 
-Kit Welsh is a [andromorph](./universe/andromorph.md) raccoon. He is interested in astronomy, amateur radio and video editing. He works for varies railroads, handling long distant freight and passenger routes.
+Kit Welsh is a andromorph raccoon. He is interested in astronomy, amateur radio and video editing. He works for varies railroads, handling long distant freight and passenger routes.
 
 ## Aidan Cheddar
 
