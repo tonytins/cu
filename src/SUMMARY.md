@@ -1,11 +1,10 @@
 # Summary
 
 - [Introduction](./intro.md)
-- [Species](#)
+- [Species](./species/README.md)
   - [Synths](./species/synths.md)
-- [Genetics](#)
+- [Genetics](./genetics/README.md)
   - [Tailmaw](./genetics/tailmaw.md)
   - [Andromorph](./genetics/andromorph.md)
-- [Universe](./universe/README.md)
-  - [Locations](./universe/locations.md)
 - [Characters](./character.md)
+- [Locations](./locations.md)

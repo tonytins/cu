@@ -6,7 +6,7 @@ Oliver is a blue tabby cat that is interested in cars, soccer, and coin collecti
 
 Oliver wears a silver necklace with a symbol of the [Catsinburg](./universe/locations.md) crown hanging from it. While others like it aren't rare, it's not commonly worn within the greater kingdom.
 
-## Foxclaw Twins
+## Eriksson Twins
 
 ### Anthony
 
