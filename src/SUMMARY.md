@@ -9,4 +9,5 @@
   - [Andromorph](./genetics/andromorph.md)
 - [Characters](./characters.md)
 - [World](./world/README.md)
-  - [Locations](./locations.md)
+  - [Cities](./world/cities.md)
+  - [Culture](./world/culture.md)
