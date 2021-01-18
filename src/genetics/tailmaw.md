@@ -4,4 +4,4 @@ Tailmaws are blind sentient tails with a mouth. They're able to eat and consume 
 
 ## Characters
 
-- Anthony Casey
+- Zack Casey
