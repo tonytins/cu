@@ -1,5 +1,7 @@
 # Characters
 
+Work in progress. Each character will eventually have their own page as their info is expanded upon.
+
 ## Prince Oliver Bradford
 
 Oliver is a blue tabby cat that is interested in cars, soccer, and coin collecting. Despite his "Prince" title, he is not in the top five list of successors to become king he is one of the many grandchildren in the royal family. But Oliver has no interest in becoming king, anyway, and works to keep his prince status discrete, often to the disappointment of his parents. However, his upbringing means he still has habits only found within the royal family, even though he is much more chill overall and often goes with the flow, compared to the rest. 
@@ -10,15 +12,36 @@ Oliver wears a silver necklace with a symbol of the [Catsinburg](./universe/loca
 
 ### Anthony
 
-Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms. He has a [tailmaw](./genetics/tailmaw.md) named Fitz as well as a cybernetic arm that's normally covered by synthetic skin and fur.
+Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms, a cybernetic arms that's normally covered by synthetic skin and fur.
+
+### Mutate Form
+
+Anthony's mutate form includes eight back tentacles.
+
+### Extra Info
+
+- Anthony has an affinity for coffee and often treats it like Wine. 
+- Internally, Anthony calls himself "Anton."
 
 ### Zack
 
-Zack is a blue fennec with a [tailmaw](./genetics/tailmaw.md). He is interested in skateboarding, podcasting and comics. Zack has a cybernetic eyes. His name is carried over from his father, Zack, and their father, ect...
+Zack is a blue fennec that is interested in skateboarding, podcasting and comics. Zack has a cybernetic eyes. His name is carried over from his father, Zack, and their father, ect.
+
+### Mutate Form
+
+Zack's mutate form includes a [tailmaw](./genetics/tailmaw.md), named Fitz.
+
+### Extra Info
+
+- Zack's friends often nickname him "Z."
 
 ## Felix
 
-Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs, and going to the gym. With him is his has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
+Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs, and exercising. He has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
+
+## Extra Info
+
+- Felix lives with the Casey twins.
 
 ## Tom Wilcox
 

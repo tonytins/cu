@@ -7,6 +7,6 @@ An andromorph is a fancy term for males born with female genitals. Andromorphs m
 It's possible for andromorphs to get pregnant and experience the same menstrual cycle as their female counterparts.
 ## Characters
 
-- Anthony Foxclaw
+- Anthony Casey
 - Kit Welsh
 - Tom Wilcox

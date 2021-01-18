@@ -7,7 +7,7 @@
 
 [Synths](https://synthspecies.com/) are a fictional synthetic android species created by [Vader-San](https://www.furaffinity.net/user/vader-san). They are open, free to use, and can be adapted into any canon without restrictions.
 
-While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. Though for the purposes of this book, Synths based on that lore will go under the "mainline" title. As a species, Casey Universe versions can be considered a subset of the mainline.
+While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. Though for the purposes of this book, Synths based on that lore will go under the "mainline" title. As a species, CU versions of Synths can be considered a subset of the mainline as the differences are currently subtle.
 
 ## Culture
 
@@ -30,3 +30,7 @@ Grey Goo is the "blood" of all Synths. It carries nanites throughout their body,
 ### "Grey Goo Event"
 
 A Grey Goo Event is a rare corruption in a nanite's models that causes then to replicate themselves infinitely, ultimately resulting in synthetic or organic death.
+
+## Characters
+
+- Felix
