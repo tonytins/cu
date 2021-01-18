@@ -14,9 +14,9 @@ Oliver wears a silver necklace with a symbol of the [Catsinburg](./universe/loca
 
 Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms, a cybernetic arms that's normally covered by synthetic skin and fur.
 
-### Mutate Form
+### Earth-02
 
-Anthony's mutate form includes eight back tentacles.
+In Earth-02, Anthony's is [mutate](./genetics/mutates.md) with eight back tentacles.
 
 ### Extra Info
 
@@ -27,9 +27,9 @@ Anthony's mutate form includes eight back tentacles.
 
 Zack is a blue fennec that is interested in skateboarding, podcasting and comics. Zack has a cybernetic eyes. His name is carried over from his father, Zack, and their father, ect.
 
-### Mutate Form
+### Earth-02
 
-Zack's mutate form includes a [tailmaw](./genetics/tailmaw.md), named Fitz.
+In Earth-02, Zack's is a mutate with a [tailmaw](./genetics/tailmaw.md), named Fitz.
 
 ### Extra Info
 
