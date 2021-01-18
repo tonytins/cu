@@ -6,5 +6,5 @@
 - [Genetics](./genetics/README.md)
   - [Tailmaw](./genetics/tailmaw.md)
   - [Andromorph](./genetics/andromorph.md)
-- [Characters](./character.md)
+- [Characters](./characters.md)
 - [Locations](./locations.md)
