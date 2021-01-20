@@ -14,7 +14,7 @@ While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves on
 
 #### Volts
 
-Synths use [watch batteries](https://en.wikipedia.org/wiki/Button_cell) as a form currency because of their usage in powering a computer's real-time clocks lasts for decades. The value is represents as Volts, with the maximum volt serving as the total value of that battery. Volts are the equivalent of coins and sometimes used to buy cheap consumer goods.
+Synths use [watch batteries](https://en.wikipedia.org/wiki/Button_cell) as a form currency because of their usage in powering a computer's real-time clocks lasts for decades makes them very valuable. The value of each Volt is represents is based on the battery's total maximum volt. Volts are the equivalent of coins and are commonly used to buy consumer goods or services.
 ## Anatomy
 
 ### Format
