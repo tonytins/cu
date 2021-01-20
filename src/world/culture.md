@@ -6,4 +6,4 @@ Though culture naturally differs from region-to-region, somethings remain consta
 
 With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their top and bottoms as it would irritate their fur. 
 
-The most common shirts between genders are crop and tank tops while women may wear tube tops. Loincloths and skirts for both men and women replace pants. The above choice in bottoms also gives their tails more freedom and has contributed in pants being unfavorable amongst every society alongside reducing irritation.
+Shirts and jackets are commonly in sleeveless variants. are crop and tank tops while women may wear tube tops. Loincloths and skirts for both men and women replace pants. The above choice in bottoms also gives their tails more freedom and has contributed in pants being unfavorable amongst every society alongside reducing irritation. Long socks serve as alternative to 

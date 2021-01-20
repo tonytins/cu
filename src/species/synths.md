@@ -10,11 +10,11 @@
 While a [lore](https://synthspecies.com/wiki/Main_Page) does exist, it serves only as a means to flesh out the species and *does not need to be strictly followed*. Though for the purposes of this book, Synths based on that lore will go under the "mainline" title. As a species, CU versions of Synths can be considered a subset of the mainline as the differences are currently subtle.
 
 ## Culture
+### Currency
 
-### Language
+#### Volts
 
-Synths adopt to the written and spoken language organics use within a region in order to communicate with them and amongst themselves in the area. However, Synths have developed their own writing language based on barcodes. Known as the Synthetic Language, the data within the barcodes is OS-independent and can be read by Synths or any application the supports it. The Synthetic Language has allowed them to gain independence from organics and move to areas populated by a Synth majority, such as Zero One, when they're not needed.
-
+Synths use [watch batteries](https://en.wikipedia.org/wiki/Button_cell) as a form currency because of their usage in powering a computer's real-time clocks lasts for decades. The value is represents as Volts, with the maximum volt serving as the total value of that battery. Volts are the equivalent of coins and sometimes used to buy cheap consumer goods.
 ## Anatomy
 
 ### Format
