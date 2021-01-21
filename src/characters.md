@@ -14,24 +14,24 @@ The Casey Twins serve as the primary protagonists the majority of the time, eith
 
 ### Anthony
 
-Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms, a cybernetic arms that's normally covered by synthetic skin and fur.
+Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
 
 #### Earth-02
 
-In Earth-02, Anthony's is [mutate](./genetics/mutates.md) with eight back tentacles.
+In Earth-02, Anthony is a [mutate](./genetics/mutates.md) with eight back tentacles.
 
 #### Extra Info
 
 - Anthony has an affinity for coffee and often treats it like Wine. 
-- Internally, Anthony calls himself "Anton."
+- Anthony personally calls himself "Anton."
 
 ### Zack
 
-Zack is a blue fennec that is interested in skateboarding, podcasting and comics. Zack has a cybernetic eyes. His name is carried over from his father, Zack, and their father, ect.
+Zack is a blue fennec that is interested in skateboarding, podcasting and comics. His name has been past down from generations to generations. Zack wear a green sleeves jacket and crop top with a purple loincloth and long socks.
 
 #### Earth-02
 
-In Earth-02, Zack's is a mutate with a [tailmaw](./genetics/tailmaw.md), named Fitz.
+In Earth-02, Zack is a mutate with a [tailmaw](./genetics/tailmaw.md), named Fitz.
 
 #### Extra Info
 
@@ -39,7 +39,7 @@ In Earth-02, Zack's is a mutate with a [tailmaw](./genetics/tailmaw.md), named F
 
 ## Felix
 
-Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs, and exercising. He has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion.
+Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs, and exercising. He has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion, and has a job as a constructor worker.
 
 ## Extra Info
 

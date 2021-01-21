@@ -12,3 +12,4 @@
   - [Cities](./world/cities.md)
   - [Culture](./world/culture.md)
 - [Multiverse](./multiverse.md)
+- [License](./license.md)
