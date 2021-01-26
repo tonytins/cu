@@ -1,5 +1,0 @@
-# Genetics
-
-## Gene Splicing
-
-TBA

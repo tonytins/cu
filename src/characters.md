@@ -8,7 +8,7 @@ Oliver is a blue tabby cat that is interested in cars, soccer, and coin collecti
 
 Oliver wears a silver necklace with a symbol of the [Catsinburg](./universe/locations.md) crown hanging from it. While others like it aren't rare, it's not commonly worn within the greater kingdom.
 
-## Casey Twins
+## Casey Brothers
 
 The Casey Twins serve as the primary protagonists the majority of the time, either solo or together, and where Casey Universe gets it's name.
 
@@ -43,7 +43,7 @@ Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs
 
 ## Extra Info
 
-- Felix lives with the Casey twins.
+- Felix lives with the Casey brother.
 
 ## Tom Wilcox
 
