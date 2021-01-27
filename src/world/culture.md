@@ -15,4 +15,4 @@ Within the Bradford kingdom's folklore, Idó is a word in Akina that describes t
 
 With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their top and bottoms as it would irritate their fur. 
 
-With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their top and bottoms as it would irritate their fur. Shirts and jackets are often sleeveless. Loincloths and [fundoshis](https://en.wikipedia.org/wiki/Fundoshi) are common with men. While skirts or robes are common among both genders. The choices in bottoms also gives their tails more freedom and has contributed in pants becoming unfavorable.
+With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their top and bottoms as it would irritate their fur. Sleeveless shirts, vests and hooded vests replaces t-shirts and sweaters, respectfully. Loincloths and shorts are common among men. Women's bottoms doesn't change a whole lot with the exception of them wearing pants less often.
