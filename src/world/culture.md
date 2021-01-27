@@ -4,7 +4,7 @@ Though culture naturally differs from region-to-region, somethings remain consta
 
 ## Language
 
-The Bradford kingdom has it's own language known as [Akina](https://akina.tonybark.com/), meaning "spoken word". The language has it's own separate book, you don't have to read it, but some complex concepts will have their own word in Akina that describes it, such as their mythology.
+The Bradford kingdom has it's own language known as [Akina](https://akina.tonybark.com/), meaning "spoken word". It has it's own book, separate from this. You don't have to read it, but some complex concepts, such as their mythology and genetics, may have their own associated Akina word referenced in this book, if English doesn't have any.
 
 ## Mythology
 

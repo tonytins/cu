@@ -14,14 +14,14 @@ The Casey Twins serve as the primary protagonists the majority of the time, eith
 
 ### Anthony
 
-Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a [andromorph](./genetics/andromorph.md) with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
+Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a kipomito with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
 
 - Anthony has an affinity for coffee and often treats it like Wine. 
 - Anthony personally calls himself "Anton."
 
 #### Earth-02
 
-In Earth-02, Anthony is a [mutant](./genetics/mutates.md) with eight back tentacles.
+In Earth-02, Anthony is a mutant with eight back tentacles.
 
 ### Zack
 
@@ -30,7 +30,7 @@ Zack is a blue fennec that is interested in skateboarding, podcasting and comics
 - Zack's friends often nickname him "Z."
 #### Earth-02
 
-In Earth-02, Zack is a mutate with a [tailmaw](./genetics/tailmaw.md), named Fitz.
+In Earth-02, Zack is a mutate with a tailmaw, named Fitz.
 
 ## Felix
 
@@ -40,11 +40,11 @@ Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs
 
 ## Tom Wilcox
 
-Tom Wilcox is a grey border collie and andromorph that is interested in model railroading, record collecting and karaoke. He is a traveler, historian and somewhat of a linguistic who came to Furtropolis in order to study Bradford kingdom's history, culture and language after it opened up it's borders. Though he means well, his attempts in learning the culture sometimes backfire on him to the frustration of the natives.
+Tom Wilcox is a grey border collie and kipomito that is interested in model railroading, record collecting and karaoke. He is a traveler, historian and somewhat of a linguistic who came to Furtropolis in order to study Bradford kingdom's history, culture and language after it opened up it's borders. Though he means well, his attempts in learning the culture sometimes backfire on him to the frustration of the natives.
 
 ## Kit Welsh
 
-Kit Welsh is a andromorph raccoon. He is interested in astronomy, amateur radio and video editing. He works for varies railroads, handling long distant freight and passenger routes.
+Kit Welsh is a kipomito raccoon. He is interested in astronomy, amateur radio and video editing. He works for varies railroads, handling long distant freight and passenger routes.
 
 ## Aidan Cheddar
 
