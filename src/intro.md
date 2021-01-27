@@ -6,4 +6,4 @@ Do I expect fan fiction? No. Am I going to preemptively allow and appreciate it,
 
 ## Synopsis
 
-The world is recovering from a world war. It has lead to change of powers as start countries seeking to unionize in order share in trade and policies. One of them was a once cat exclusive nation, the Bradford Kingdom, opening their doors to outsiders. As a consequence, the capital changed from a once dominant cat city, Catsinburg, to a new multi-species city, Furtropolis. While many welcomed the change, there is still some unrest by those yearning the old days.
+The world is recovering from a world war. It has lead to change of powers as countries start seeking to unionize in order share in trade and policies. One of them was a once cat exclusive nation, the Bradford Kingdom, opening their doors to outsiders. As a consequence, the capital changed from a once dominant cat city, Catsinburg, to a new multi-species city, Furtropolis. While many welcomed the change, there is still some unrest by those yearning the old days.
