@@ -1,7 +1,5 @@
 # Chaotic Characters
 
-These characters primarily play the role of hero. 
-
 ## Robert "Robin" Grayson
 
 Robert Grayson is an legendary fox known under his alias "Robin." A grey fox, he is outlaw within the Bradford kingdom, known for finding elaborate of stealing money from wealthy CEOs and politicians, alike, in order to give back to the poor. He is often used an escape goat to politicians seeking to return to the days of isolation.
