@@ -1,10 +1,14 @@
 # Summary
 
 - [Introduction](./intro.md)
+- [Bark Pack](./barkpack.md)
 - [Species](./species/README.md)
   - [Synths](./species/synths.md)
 - [Genetics](./genetics.md)
-- [Characters](./characters.md)
+- [Characters](./characters/README.md)
+  - [Chaotic](./characters/chaotic.md)
+  - [Neutral](./characters/neutral.md)
+  - [Lawful](./characters/lawful.md)
 - [World](./world/README.md)
   - [Cities](./world/cities.md)
   - [Culture](./world/culture.md)

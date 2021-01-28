@@ -1,7 +1,6 @@
-# Characters
+# Neutral Characters
 
-Work in progress. Each character will eventually have their own page as their info is expanded upon.
-
+To be sorted.
 ## Prince Oliver Bradford
 
 Oliver is a blue tabby cat that is interested in cars, soccer, and coin collecting. Despite his "Prince" title, he is not in the top five list of successors to become king he is one of the many grandchildren in the royal family. But Oliver has no interest in becoming king, anyway, and works to keep his prince status discrete, often to the disappointment of his parents. However, his upbringing means he still has habits only found within the royal family, even though he is much more chill overall and often goes with the flow, compared to the rest. 
@@ -9,9 +8,6 @@ Oliver is a blue tabby cat that is interested in cars, soccer, and coin collecti
 Oliver wears a silver necklace with a symbol of the [Catsinburg](./universe/locations.md) crown hanging from it. While others like it aren't rare, it's not commonly worn within the greater kingdom.
 
 ## Casey Brothers
-
-The Casey Twins serve as the primary protagonists the majority of the time, either solo or together, and where Casey Universe gets it's name.
-
 ### Anthony
 
 Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a kipomito with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
@@ -49,7 +45,3 @@ Kit Welsh is a kipomito raccoon. He is interested in astronomy, amateur radio an
 ## Aidan Cheddar
 
 Aidan Cheddar is a male fancy mouse that lives underground in a mice city next to the Furtropolis subway network. He helps maintain the subway lines within the area he lives in.
-
-## Savelli Cornell
-
-Savelli is a male dalmatian that is interested in martial arts, hacking and VR gaming. He likes to exploit loopholes established within system in order to achieve his goals. His goals range from pure selfishness to just making life better for himself. Savelli has a "Honor Among Thieves" mentality but he himself will not promise anything unless he knows he can truly keep them. Despite his questionable actions, he is genuinely a kind-hearted person. Savelli isn't necessarily a bad person but he isn't always good one ether.

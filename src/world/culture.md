@@ -2,10 +2,6 @@
 
 Though culture naturally differs from region-to-region, somethings remain constant throughout all societies in Casey Universe, especially since the internet's rise.
 
-## Language
-
-The Bradford kingdom has it's own language known as [Akina](https://akina.tonybark.com/), meaning "spoken word". It has it's own book, separate from this. You don't have to read it, but some complex concepts, such as their mythology and genetics, may have their own associated Akina word referenced in this book, if English doesn't have any.
-
 ## Mythology
 
 Within the Bradford kingdom's folklore, Idó is a word in Akina that describes the concept in which spirits that can range from elements of the landscape, forces of nature, as well as beings and the qualities that these beings express; they can also be the spirits of venerated dead people.
