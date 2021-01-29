@@ -1,4 +1,4 @@
-# Cansey Universe Canon
+# Cansey Universe
 
 This is a reference book for all my characters, their world and so on.
 
@@ -6,8 +6,8 @@ This is a reference book for all my characters, their world and so on.
 
 ### Prerequisites
 
-- Rust
-- mdBook
+- [Rust](https://www.rust-lang.org/)
+- [mdBook](https://github.com/rust-lang/mdBook)
 
 ## License
 

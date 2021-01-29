@@ -5,7 +5,7 @@ To be sorted
 ## Casey Brothers
 ### Anthony
 
-Anthony is a blue fennec that is interested in electronics, model railroading and comics. He is a kipomito with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
+Anthony is a fennec with blue fur that is interested in electronics, model railroading and comics. He is a kipomito with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
 
 - Anthony has an affinity for coffee and often treats it like Wine. 
 - Anthony personally calls himself "Anton."
