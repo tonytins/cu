@@ -1,3 +1,3 @@
 # Characters
 
-This section has characters split between lawful, neutral, and chaotic, with each one existing somewhere on [Character Alignment spectrum](https://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterAlignment) sitting somewhere between good and evil. As with everything in this book, treat these roles only as guidelines.
+This section has characters categorized by the ethical axis of [Character Alignment spectrum](https://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterAlignment), lawful vs chaotic, only to go deeper into each character's morals, good or evil, from there. As with everything in this book, treat these roles only as guidelines.
