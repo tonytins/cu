@@ -6,4 +6,4 @@ Robert Grayson is an fox with gray fur. Known under the alias "Robin," he is a l
 
 Robin is often used as an escape goat by politicians seeking to return to the days of isolation. Even though he openly admits of wishing that he didn't have to resort to stealing just to help those in need and wishes the wealthy would pay their taxes.
 
-Robert has no affiliation with Bark Pack, only working behind the shadows when they have the spotlight, but he does sometimes aid them with the help of his own group when their goals overlap.
+Robin has no affiliation with Bark Pack, only working behind the shadows when they have the spotlight, but he does sometimes aid them with the help of his own group when their goals overlap.
