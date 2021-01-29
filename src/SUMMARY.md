@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](./intro.md)
-- [Bark Pack](./barkpack.md)
 - [World](./world/README.md)
   - [Cities](./world/cities.md)
   - [Culture](./world/culture.md)
@@ -12,5 +11,6 @@
   - [Chaotic](./characters/chaotic.md)
   - [Neutral](./characters/neutral.md)
   - [Lawful](./characters/lawful.md)
+- [Bark Pack](./barkpack.md)
 - [Multiverse](./multiverse.md)
 - [License](./license.md)
