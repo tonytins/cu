@@ -8,6 +8,6 @@ But he has no interest in becoming king, anyway, and works to keep his prince st
 
 ## Savelli Cornell
 
-Nearing the end Great War, Savelli's parents moved to the Bradford kingdom as refugees. By remaining kind to the royal family, his parents were able to work for the guard. Learning from his parents, Savelli saw the law as a means to an end, regardless of the consequences it may bring.
+Nearing the end Great War, Savelli's parents, dalmatians from a far away land, washed up on the shores of the Bradford kingdom and became refugees. By remaining kind to the royal family, his parents were able to work for the guard. Learning from his parents, Savelli saw working within the law and remaining loyal to the royal family as a means getting what he wants.
 
-Being so close royalty, Savelli grew up with Prince Oliver. Oliver was one of the rare few in the royal family that saw him as a friend, not a servant, and two genuinely befriended each other. He is one of the few to ever see Savelli smile.
+Being so close royalty meant Savelli grew up with Prince Oliver. Oliver was one of the rare few in the royal family that saw him as a friend, not a servant, and two befriended each other. He is one of the few to ever see Savelli smile.
