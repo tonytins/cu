@@ -5,29 +5,20 @@ To be sorted
 ## Casey Brothers
 ### Anthony
 
-Anthony is a fennec with blue fur that is interested in electronics, model railroading and comics. He is a kipomito with a preference to more feminine bottoms, and prefers to be called "Anton". Anthony has cybernetic arms based on Synth technology that's normally covered by synthetic skin and fur. He wears a green skirt, black crop top and purple leg warmers.
+Anthony is a fennec with blue fur. He is a kipomito with a preference feminine bottoms, He has a has an affinity for coffee, likes to be addressed as "Anton".
 
-- Anthony has an affinity for coffee and often treats it like Wine. 
-- Anthony personally calls himself "Anton."
-
+Having moved to Furtropolis with his brother due to his job, Anthony is a do-gooder just trying to live a normal life. However, the rising conflicts within the city often force him to turn his good habits into an obligation in order to protect his family and friends, as he often quick to adapt and come up with plans on-the-fly.
 #### Earth-02
 
 In Earth-02, Anthony is a mutant with eight back tentacles.
 
 ### Zack
 
-Zack is a blue fennec that is interested in skateboarding, podcasting and comics. His name has been past down from generations to generations. Zack wear a green sleeves jacket and crop top with a purple loincloth and long socks.
+Zack is a fennec with blue fur. His name has been past down from generations to generations but his friends just call him "Z".
 
-- Zack's friends often nickname him "Z."
 #### Earth-02
 
 In Earth-02, Zack is a mutate with a tailmaw, named Fitz.
-
-## Felix
-
-Felix is a [synth](./species/synths.md) that likes CD collecting, visiting clubs, and exercising. He has a [helperbot](https://synthspecies.com/wiki/Helperbots), Nix, that serves as his companion, and has a job as a constructor worker.
-
-- Felix lives with the Casey brother.
 
 ## Tom Wilcox
 
