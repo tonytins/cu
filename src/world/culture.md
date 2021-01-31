@@ -10,5 +10,6 @@ Within the Bradford kingdom's folklore, Idó is a word in Akina that describes t
 ## Fashion
 
 With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their top and bottoms as it would irritate their fur. 
-
-With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their top and bottoms as it would irritate their fur. Sleeveless shirts, vests and hooded vests replaces t-shirts and sweaters, respectfully. Loincloths and shorts are common among men. Women's bottoms doesn't change a whole lot with the exception of them wearing pants less often.
+Sleeveless shirts, vests and hooded vests replaces t-shirts and sweaters, respectively. 
+Loincloths and shorts are common among men. 
+Women's bottoms haven't change a whole lot with the exception of them wearing pants less often.
