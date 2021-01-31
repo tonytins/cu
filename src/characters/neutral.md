@@ -4,7 +4,7 @@ To be sorted
 
 ## Anthony Casey
 
-Anthony is a fennec with blue fur. He is a kipomito with a preference feminine bottoms, He has a has an affinity for coffee, likes to be addressed as "Anton".
+Anthony is a fennec with blue fur. He is a kipomito with an affinity for coffee, a preference for feminine bottoms, and prefers to be addressed as "Anton".
 
 Having moved to Furtropolis with his brother due to his job, Anthony is a do-gooder just trying to live a normal life. However, the rising conflicts within the city often force him to turn his good habits into an obligation in order to protect his family and friends, as he often quick to adapt and come up with plans on-the-fly.
 #### Earth-02
@@ -17,7 +17,7 @@ Tom Wilcox is a grey border collie and kipomito that is interested in model rail
 
 ## Kit Welsh
 
-Kit Welsh is a kipomito raccoon. He is interested in astronomy, amateur radio and video editing. He works for varies railroads, handling long distant freight and passenger routes.
+Kit Welsh is a kipomito raccoon. He is interested in astronomy, amateur radio and video editing. He works for various railroads, handling long distant freight and passenger routes.
 
 ## Aidan Cheddar
 
