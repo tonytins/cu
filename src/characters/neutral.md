@@ -2,8 +2,7 @@
 
 To be sorted
 
-## Casey Brothers
-### Anthony
+## Anthony Casey
 
 Anthony is a fennec with blue fur. He is a kipomito with a preference feminine bottoms, He has a has an affinity for coffee, likes to be addressed as "Anton".
 
@@ -11,14 +10,6 @@ Having moved to Furtropolis with his brother due to his job, Anthony is a do-goo
 #### Earth-02
 
 In Earth-02, Anthony is a mutant with eight back tentacles.
-
-### Zack
-
-Zack is a fennec with blue fur. His name has been past down from generations to generations but his friends just call him "Z".
-
-#### Earth-02
-
-In Earth-02, Zack is a mutate with a tailmaw, named Fitz.
 
 ## Tom Wilcox
 
