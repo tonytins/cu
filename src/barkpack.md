@@ -1,7 +1,6 @@
 # Bark Pack
 
-Founded by Zack Casey, Bark Pack is a heroic team consisting of: 
-* The Casey family
+Founded by Zack Casey, Bark Pack is a heroic team consisting of The Casey family:
 * Zack
 * Anthony
 * Felix
