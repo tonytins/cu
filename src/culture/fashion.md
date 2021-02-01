@@ -1,6 +1,6 @@
 # Fashion
 
-Though fashion differs from region to region, let alone species, somethings in Casey Universe remain consistent throughout the world. With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their body as it would irritate their fur. This means that shorter or medieval-style clothing, such as tunics, remain the norm, despite taking place in modern to contemporary times.
+With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their body as it would irritate their fur. This means that shorter or medieval-style clothing, such as tunics, remain the norm, despite taking place in modern to contemporary times.
 
 ## Differences
 
