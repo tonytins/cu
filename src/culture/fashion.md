@@ -4,11 +4,14 @@ With the exception of hairless animals, the majority of furries don't wear cloth
 
 ## Differences
 
-- Sleeveless shirts and vests replaces t-shirts and sweaters, respectively.
-- Men's bottoms consist of loincloths or shorts.
-- Tunics are common among both genders.
-- Women's fashion hasn't changed with only a few exceptions:
-  - No interest in pants.
-  - Dresses are sleeveless like shirts.
+- Men's bottoms may consist of loincloths, kilts or shorts.
+- Women don't need to wear pants.
+
+### Both Genders
+
+- Tunics.
+- Short or Sleeveless tops.
+
+### Exceptions
 
 But full body clothing have not completely gone away. They're still used on rare or less common occasions, such as when protection outweighs comfort. E.g. construction, hazard areas, certain contact sports and weather.
