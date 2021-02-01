@@ -3,7 +3,7 @@
 - [Introduction](./intro.md)
 - [World](./world/README.md)
   - [Cities](./world/cities.md)
-- [Culture](./world/README.md)
+- [Culture](./culture/README.md)
   - [Fashion](./culture/fashion.md)
   - [Mythology](./culture/mythology.md)
   - [Language](./culture/language.md)
