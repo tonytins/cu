@@ -1,11 +1,12 @@
 # Fashion
 
-With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their body as it would irritate their fur. This means that shorter or medieval-style clothing, such as tunics, remain the norm, despite taking place in modern to contemporary times.
+With the exception of hairless animals, the majority of furries don't wear clothing that completely covers their body as it would irritate their fur. This means that shorter or medieval-style clothing remain the norm, despite taking place in modern to contemporary times.
 
 ## Differences
 
 - Sleeveless shirts and vests replaces t-shirts and sweaters, respectively.
 - Men's bottoms consist of loincloths or shorts.
+- Tunics are common among both genders.
 - Women's fashion hasn't changed with only a few exceptions:
   - No interest in pants.
   - Dresses are sleeveless like shirts.
