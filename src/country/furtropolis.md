@@ -21,9 +21,3 @@ Grand Central Terminal is a railroad terminal that connects regional and long di
 ### North Pacific Ports
 
 The North Pacific Ports sees frequent trade from cargo ships and is a major cruise ship destination for tourists wishing to the view city during the summer. Cruise ships dock and sail out from Furtropolis during the winter. However, the ports are most known for providing a relationship with undersea creatures that visit Nethington more often since Furtropolis.
-
-## Alternative Universes
-
-### Original series
-
-In the original series, there was no kingdom or island of any kind. Furtropolis was one of many small city-states out in the middle of a barren desert. It had giant, tall and thick walls in order to block any dust storms and protect against any attacks. The Central Tower had Grand Central Terminal beneath it in order to save on space and provided extra stability for the tower above. Mice lived under and helped maintained the subway network below.
