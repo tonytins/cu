@@ -20,7 +20,7 @@ Grand Central Terminal is a railroad terminal that connects regional and long di
 
 ### North Pacific Ports
 
-The North Pacific Ports sees frequent trade from cargo ships. It is also a major cruising destination for tourists wishing to the see city during the summer while cruise ships dock and sail out from Furtropolis during the winter. However, the ports are most known for providing a relationship with undersea creatures, who visit Nethington more often since Furtropolis.
+The North Pacific Ports sees frequent trade from cargo ships and is a major cruise ship destination for tourists wishing to the view city during the summer. Cruise ships dock and sail out from Furtropolis during the winter. However, the ports are most known for providing a relationship with undersea creatures that visit Nethington more often since Furtropolis.
 
 ## Alternative Universes
 
