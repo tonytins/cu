@@ -15,3 +15,9 @@ With the exception of hairless animals, the majority of furries don't wear cloth
 ### Exceptions
 
 But full body clothing have not completely gone away. They're still used on rare or less common occasions, such as when protection outweighs comfort. E.g. construction, hazard areas, certain contact sports and weather.
+
+## Regional
+
+### Catsinburg
+
+Having been around the longest, Catsinbrug's fashion is more "traditional" style.

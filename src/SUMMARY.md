@@ -1,12 +1,10 @@
 # Summary
 
 - [Introduction](./intro.md)
-- [World](./world/README.md)
-  - [Cities](./world/cities.md)
-- [Culture](./culture/README.md)
-  - [Fashion](./culture/fashion.md)
-  - [Mythology](./culture/mythology.md)
-  - [Language](./culture/language.md)
+- [Conflicts](./conflicts.md)
+- [Nethington](./country/README.md)
+  - [Fashion](./country/fashion.md)
+  - [Language](./country/language.md)
 - [Genetics](./genetics.md)
 - [Species](./species/README.md)
   - [Synths](./species/synths.md)
