@@ -2,7 +2,7 @@
 ## Past Universes
 ### FBDJ
 
-The FBDJ Universe is the true original universe. At this point, there was *only* Zack Casey living along the outskirts of what is now Catsinburg, however there was no kingdom. His neighbor was simply named John, living in a housing development. Zack was blue a fox that aspired to be a DJ, known as the **F**urry **B**lue **DJ**. Later timelines introduced a proto version of Saveli Cornell as an early antagonist whom was more a parody of comic villains.
+The FBDJ Universe is the true original universe. At this point, there was *only* Zack Casey living along the outskirts of what is now Catsinburg, however there was no kingdom. He did have a neighbor that was simply named John. They all lived within in a housing development. Zack was blue a fox that aspired to be a DJ, known as the **F**urry **B**lue **DJ**. Later timelines introduced a proto version of Saveli Cornell and his android assistant as an early antagonist whom was more a parody of comic villains.
 
 ### Proto
 
@@ -14,6 +14,6 @@ Saveli Cornell would go to overthrow Furtropolis which started a civil war. Zack
 
 ### Bark Pack
 
-A re-imagining of both the FBDJ and Proto Universes by merging them together. It kept Furtropolis and the main characters within the outskirts. Main locations varied from a small town to University. Meanwhile, Bark Pack threw out the Savelli Cornell plot and focused on slice-of-life but later iterations would introduce a new bad guy, Silverclaw, and begin experimenting with Science Fantasy.
+A re-imagining of both the FBDJ and Proto Universes that merged them together. It kept Furtropolis while keeping the main characters along the outskirts. Main locations varied from a small town to a university. Meanwhile, Bark Pack threw out the Savelli Cornell plot and focused on slice-of-life.
 
-Aside from Silverclaw, Bark Pack also introduced Felix and Tom, both university students. Felix's family owned the university. Tom was a average student dealing with the social troubles of being a kipomito, as they were recently introduced in later Bark Pack timelines.
+However, later iterations would introduce a new villain, Silverclaw, and begin experimenting with more fantastical elements with the Odium crystals, inspired by the Infinity Stones, that Silverclaw wants. Bark Pack also introduced Felix and Tom, both university students. Felix's family owned the university but didn't like that fact and hated being the center of attention. Meanwhile, Tom was a average student dealing with the social troubles of being a kipomito - they were only recently introduced in later iterations of Bark Pack.
