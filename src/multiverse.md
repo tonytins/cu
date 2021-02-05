@@ -14,6 +14,6 @@ Saveli Cornell would go to overthrow Furtropolis which started a civil war. Zack
 
 ### Bark Pack
 
-A re-imagining of both the FBDJ and Proto Universes that merged them together. It kept Furtropolis while keeping the main characters along the outskirts. Main locations varied from a small town to a university. Meanwhile, Bark Pack threw out the Savelli Cornell plot and focused on slice-of-life.
+A re-imagining of both the FBDJ and Proto Universes that merged them together. It kept Furtropolis while keeping the main characters along the outskirts. Main locations varied from a small town to a university. Meanwhile, Bark Pack threw out the Savelli Cornell plot and focused on slice-of-life. Furtropolis was located in a fictional state within the USA, as oppose to an fictional island nation.
 
 However, later iterations would introduce a new villain, Silverclaw, and begin experimenting with more fantastical elements with the Odium crystals, inspired by the Infinity Stones, that Silverclaw wants. Bark Pack also introduced Felix and Tom, both university students. Felix's family owned the university but didn't like that fact and hated being the center of attention. Meanwhile, Tom was a average student dealing with the social troubles of being a kipomito - they were only recently introduced in later iterations of Bark Pack.
