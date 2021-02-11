@@ -15,5 +15,6 @@
   - [Neutral](./characters/neutral.md)
   - [Lawful](./characters/lawful.md)
 - [Bark Pack](./barkpack.md)
-- [Multiverse](./multiverse.md)
+- [Multiverse](./multiverse/README.md)
+  - [Past Universes](./multiverse/past.md)
 - [License](./license.md)
