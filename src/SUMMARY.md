@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](./intro.md)
+- [Introduction](./README.md)
 - [Conflicts](./conflicts.md)
 - [Nethington](./country/README.md)
   - [Furtropolis](./country/furtropolis.md)
