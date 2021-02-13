@@ -16,5 +16,6 @@
   - [Lawful](./characters/lawful.md)
 - [Bark Pack](./barkpack.md)
 - [Multiverse](./multiverse/README.md)
+  - [World of Magic](./multiverse/cu236.md)
   - [Past Universes](./multiverse/past.md)
 - [License](./license.md)
