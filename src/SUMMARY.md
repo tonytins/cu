@@ -8,6 +8,7 @@
   - [Ashelor](./country/ashelor.md)
 - [Language](./country/language.md)
 - [Genetics](./genetics.md)
+- [Magic](./magic.md)
 - [Species](./species/README.md)
   - [Synths](./species/synths.md)
 - [Characters](./characters/README.md)
