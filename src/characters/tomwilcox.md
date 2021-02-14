@@ -1,0 +1,3 @@
+# Tom Wilcox
+
+Tom Wilcox is a grey border collie and kipomito that is interested in model railroading, record collecting and karaoke. He is a traveler, historian and somewhat of a linguistic who came to Furtropolis in order to study Bradford kingdom's history, culture and language after it opened up it's borders. Though he means well, his attempts in learning the culture sometimes backfire on him to the frustration of the natives.
