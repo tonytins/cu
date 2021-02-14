@@ -1,12 +1,16 @@
 # Nethington
 
-Nethington is a island nation located on the north pacific ocean. It is ruled by the Bradford kingdom, a large and powerful kingdom founded by cats. It was home exclusively to cats until the kingdom opened Nethington up from isolation and allowed other species to live there, following the end of the Great War and formation of Furtropolis.
+Public transit is the most dominant form of transport in all of Nethington. The need for it became even more demanding after the demolishing of the isolationist policy. Trains, both intercity and subways, is the most common type of transport throughout the country, making up the bulk ridership with buses coming in second. However, cars are still used for travel between rural areas, or direct connections within cities.
 
 ## Culture
 
+### Public Transit
+
+Public transit is the most frequent form of transport in all of Nethington. The need for it became even more demanding  after the demolishing of the isolationist policy. Trains, both intercity and subways, is the most common form of transport throughout the country, making up the bulk ridership with buses coming in second. However, cars are still used for travel between rural areas or for direct connections within cities.
+
 ### Sports
 
-Nethington has varies kinds of sports. The most notable being [Rugby](https://en.wikipedia.org/wiki/Rugby_union). Since Furtropolis' rise, the country sometimes hosts a underwater version of the sport, consisting of varies (semi-)aquatic creatures. With the rise in ever increasingly powerful computers, eSports has seen an emergence that has further been aided by VR.
+Nethington has varies kinds of sports. The most notable being [Rugby](https://en.wikipedia.org/wiki/Rugby_union). The country sometimes hosts a underwater version of the sport at Ashelor, Furtropolis' neighboring undersea city. With the rise in ever increasingly powerful computers, eSports has seen an emergence that has further been aided by VR.
 
 ### Fashion
 

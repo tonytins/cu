@@ -15,4 +15,4 @@ Etrium, also known as Essence, is the central element of all magic that all othe
 
 ## Bluerium
 
-Bluerium is an magical element that you're born with and is used for casting charms and spells. These people are known as Mages. Bluerium flows through a mage's body like blood, but it doesn't replace blood, and is capable of regenerating. Mages use wands and staffs to help channel their magic. Bluerium can absorbed and it can temporarily be taken away.
+Bluerium is a magical element that you're born with. These beings are known as Mages. Bluerium is used for casting charms and spells which can be channeled through wands or staffs. Bluerium flows through a mage's body like blood, but it doesn't replace blood, and is capable of regenerating. It's passed down through heredity, but may become dormant if passed down to anyone born without it; however, it will eventually resurface unexpectedly in later generations. Bluerium can absorbed and it can temporarily be taken away.
