@@ -14,7 +14,7 @@
 - [Characters](./characters/README.md)
   - [Tom Wilcox](characters/tomwilcox.md)
   - [Robin Grayson](./characters/robingrayson.md)
-  - [Asgeir Kleve](./characters/asgeirkleve.mds)
+  - [Asgeir Kleve](./characters/asgeirkleve.md)
   - [Anthony Casey](characters/anthonycasey.md)
   - [Prince Oliver](./characters/princeoliver.md)
   - [Zack Casey](./characters/zackcasey.md)
