@@ -4,3 +4,10 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Casey Universe Book"
+
+[output.html.fold]
+enable = true
+
+[output.html.search]
+enable = true
+limit-results = 15
