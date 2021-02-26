@@ -1,9 +1,12 @@
-name: github pages
+name: Github Pages
 
 on:
+  schedule:
+    - cron: "0 0 1 * *"
   push:
     branches:
       - main
+      - master
 
 jobs:
   deploy:

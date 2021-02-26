@@ -1,0 +1,21 @@
+name: mdbook
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  push:
+    branches: [main, master, develop]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: "latest"
+
+      - name: Build
+        run: mdbook build
